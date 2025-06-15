@@ -52,3 +52,4 @@ mergeSort(my_list)
 x = range(len(my_list))
 plt.plot(x, my_list)
 plt.show()
+Plottingteil in main geändert
